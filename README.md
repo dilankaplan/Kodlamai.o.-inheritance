@@ -1,0 +1,2 @@
+# Kodlamai.o.-inheritance
+
